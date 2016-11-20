@@ -1,0 +1,7 @@
+{
+    "name": "electron-ereader",
+    "version": "0.1.1",
+    "author": "Erik Wilhelm <erik.wilhelm@gmail.com>",
+    "license": "LGPL",
+    "description": "Forked from Anders Brolin https://github.com/androw72/spark-ereader library"
+}
